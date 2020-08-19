@@ -51,19 +51,10 @@ app.post("/compose", function(req, res){
 	res.redirect("/");
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 app.listen(8000, function() {
   console.log("Server started on port 8000");
 });
+
+
+
+
